@@ -1,0 +1,9 @@
+Task 2 - python task2.py -f TradeDataFinal.csv -re GERMANY -pa CHINA -cat 61 -y 2019 -o new2.pdf
+
+Task 3 - python task3.py -f TradeDataFinal.csv -re GERMANY -pa CHINA -cat 61 -y 2019 -o new3.pdf
+
+Task 4 - python task4.py -f TradeDataFinal.csv -re INDIA -pa FRANCE -ocsv trade.csv
+
+Task 5 - python task5.py -f TradeDataFinal.csv -re GERMANY -pa CHINA -o new5.pdf
+
+Task 6 - python task6.py -f TradeDataFinal.csv -re GERMANY -pa CHINA -o new6.pdf
