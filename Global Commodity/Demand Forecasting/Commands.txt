@@ -1,0 +1,5 @@
+RNN: python "path to python file" -e 300 -lr 1e-3 -fcn 24 -fcsrd 10 -fcsrt "20181201" -tl 10 -hdd 20 -d 0 -b 16 -ml 240 -f "path to training file"
+
+LSTM: python "path to python file" -e 300 -lr 1e-3 -fcn 24 -fcsrd 10 -fcsrt "20181201" -tl 10 -hdd 20 -d 0 -b 16 -ml 240 -f "path to training file"
+
+Prophet: python "path to python file" -f "path to training file" -ttl "date till training" -tst "date when prediction starts"
